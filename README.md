@@ -1,7 +1,7 @@
 # hello-world
 este es mi primer repo
 
-Reynoso Pezúa, gabrielreynosop
+Reynoso Pezúa, Gabriel
 
 ## Subtítulo
 
@@ -16,4 +16,4 @@ Reynoso Pezúa, gabrielreynosop
 
 ## un subtítulo más
 
-*otro más en cursiva*
+*otro más en cursiva
