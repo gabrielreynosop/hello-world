@@ -11,3 +11,7 @@ Reynoso Pezúa, gabrielreynosop
 # Segunda sección
 
 ## Otro subtítulo
+
+**más texto en negrita**
+
+## un subtítulo más
