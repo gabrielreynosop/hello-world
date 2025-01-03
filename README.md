@@ -15,3 +15,5 @@ Reynoso Pezúa, gabrielreynosop
 **más texto en negrita**
 
 ## un subtítulo más
+
+*otro más en cursiva*
